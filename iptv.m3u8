@@ -1,5 +1,4 @@
 #EXTM3U
-http://iptv.jaze.xyz/hk.m3u
 #EXTINF:-1,now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1,now新聞台
