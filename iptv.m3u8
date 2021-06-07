@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,now直播台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1,now新聞台
-http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1,TVB 翡翠台
 http://livetv.dnsfor.me:80/channel.18.m3u8
 #EXTINF:-1,J2
