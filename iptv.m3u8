@@ -1,30 +1,29 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/83.png",無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/85.png",無綫財經·資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/81.png",翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/84.png",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/82.png",J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png",港台電視31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK32.png",港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/76.png",香港國際財經台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/81.png",翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/82.png",J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/83.png",無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/85.png",無綫財經·資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/84.png",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg",星空衛視
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wnQPn2d.jpg",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/83.png", 2-無綫新聞台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/85.png", 2-無綫財經·資訊台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
- 
