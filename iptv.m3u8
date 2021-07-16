@@ -23,3 +23,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seomarketing.hk/wp-content/uploads/2018/08/TVB-inews-300x124.jpg",2-無綫新聞台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg",2-無綫財經資訊台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
