@@ -3,12 +3,6 @@
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg",無綫財經·資訊台
 http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Free-Jade.png",翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/B55FD111-11A0-47A5-8E29-B160EC5C26DA.png",J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png",港台電視31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK32.png",港台電視32
@@ -23,8 +17,3 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://seomarketing.hk/wp-content/uploads/2018/08/TVB-inews-300x124.jpg",2-無綫新聞台
-https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg",2-無綫財經資訊台
-https://cdn.hkdtmb.com/hls/85/index.m3u8
