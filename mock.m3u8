@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="香港頻道" tvg-id="YXW.HK" tvg-name="有線新聞" tvg-logo="https://rb.gy/e83tun" ,有線新聞台
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="YCJ.HK" tvg-name="有線財經資訊" tvg-logo="https://rb.gy/gxr0zk" ,有線財經資訊台
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="YYL.HK" tvg-name="有線綜合娛樂台" tvg-logo="https://rb.gy/z4axvr" ,有線綜合娛樂台
+http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="YZB.HK" tvg-name="有線直播新聞台" tvg-logo="https://rb.gy/os4eh1" ,有線直播新聞台
+http://teslagram.com/live/channel_110.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="KAI.HK" tvg-name="開電視" tvg-logo="https://rb.gy/apxvr7" ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now直播台" tvg-logo="https://rb.gy/kshrvf" ,Now直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now新聞台" tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="NOP.HK" tvg-name="Now Sports Prime" tvg-logo="https://rb.gy/8cpcyd" ,Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="V99.HK" tvg-name="ViuTV" tvg-logo="https://rb.gy/ftgamq" ,ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 group-title="香港頻道" tvg-id="V96.HK" tvg-name="ViuTV 6" tvg-logo="https://rb.gy/po9v07" ,ViuTV 6
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視31" tvg-logo="https://rb.gy/pqjvze" ,港台電視31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視32" tvg-logo="https://rb.gy/jacmtb" ,港台電視32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視33" audio-track="eng" tvg-logo="https://rb.gy/0rw9zh" ,港台電視33
+
+#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視新聞直播" tvg-logo="https://rb.gy/8vzhqs" ,港台電視新聞直播
+http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="WXX.HK" tvg-name="無線新聞" tvg-logo="https://rb.gy/vpbeyy" ,無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="WXC.HK" tvg-name="無線財經" tvg-logo="https://rb.gy/fwgmsk" ,無綫財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="FC2.HK" tvg-name="翡翠J2台" tvg-logo="https://rb.gy/cawsmu" ,J2台
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 group-title="香港頻道" tvg-id="FCT.HK" tvg-name="翡翠台" tvg-logo="https://rb.gy/x4jaqz" ,翡翠台
+http://61.238.6.49:8001/bysid/1
+#EXTINF:-1 group-title="香港頻道" tvg-id="MZT.HK" tvg-name="明珠台" tvg-logo="https://rb.gy/khz3hv" ,明珠台
+http://61.238.6.49:8001/bysid/2
+#EXTINF:-1 group-title="香港頻道" tvg-logo="https://rb.gy/3yanoy" ,C+頻道
+*http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="耀才財經台" tvg-logo="https://rb.gy/kjnpq5" ,耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="FHJ.CN" tvg-name="鳳凰資訊" tvg-logo="https://rb.gy/pmlf2f" ,鳳凰衛視資訊台
+http://livetv.dnsfor.me/channel.21.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="FHX.CN" tvg-name="鳳凰香港" tvg-logo="https://rb.gy/b2c2vr" ,鳳凰衛視香港台
+http://livetv.dnsfor.me/channel.16.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="ATV香港追擊搜" tvg-logo="https://rb.gy/po7oqt" ,ATV香港追擊搜
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="鳳凰中文" tvg-logo="https://rb.gy/xdxgr1" ,鳳凰衛視中文台
+http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-logo="https://rb.gy/opr7sq" ,創世電視
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
