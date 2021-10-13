@@ -11,8 +11,6 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg",星空衛視
-rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wnQPn2d.jpg",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" ,香港開電視
