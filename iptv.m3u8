@@ -15,5 +15,3 @@ rtmp://58.200.131.2:1935/livetv/startv
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
