@@ -17,10 +17,8 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png",明珠台·粵
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/RTHK_TV_33.svg",港台電視33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3a/HKIBC_logo.png/220px-HKIBC_logo.png",香港國際財經台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ViuTV_logo_Final.svg",ViuTV
+#EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/viutv.jpg",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 
