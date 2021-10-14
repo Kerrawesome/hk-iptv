@@ -11,23 +11,18 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-logo="https://rb.gy/p0eiwo",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wnQPn2d.jpg",香港衛視
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnQPn2d.jpg",香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Free-Jade.png",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/B55FD111-11A0-47A5-8E29-B160EC5C26DA.png",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png",明珠台·粵
-https://cdn.hkdtmb.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/viutv.jpg",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://seomarketing.hk/wp-content/uploads/2018/08/TVB-inews-300x124.jpg",2·無綫新聞台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg",2·無綫財經資訊台
-https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png",2·港台电视31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK32.png",2·港台电视32
